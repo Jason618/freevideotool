@@ -5,13 +5,13 @@
   * 起因：在一次项目过程中，发现视频制作的同学(用mac的设计小伙伴)需要单独找一台window电脑安装视频压缩软件(格式工厂)，压缩完后我觉得体积还是比较大，影响页面性能和体验，然后我就自己用ffmpeg压缩了一遍，在满足要求的情况下，体积再次减小了49%左右；
  
     * 格式工厂压缩后的视频684kb：
-      <iframe height='300' width='300' src='https://user-images.githubusercontent.com/1276755/183452108-41a44971-b907-4416-85fd-3474d7a61da9.mp4'></iframe>
+      https://user-images.githubusercontent.com/1276755/183452108-41a44971-b907-4416-85fd-3474d7a61da9.mp4
 
     * ffmpeg压缩1压缩后小伙伴表示质量能接受347kb：
-      <iframe height='300' width='300' src='https://user-images.githubusercontent.com/1276755/183452409-331dad46-2c98-4df5-b52c-6f955791dfeb.mp4'></iframe>
+      https://user-images.githubusercontent.com/1276755/183452409-331dad46-2c98-4df5-b52c-6f955791dfeb.mp4
 
     * ffmpeg压缩2压缩后小伙伴表示质量不能接受144kb：
-      <iframe height='300' width='300' src='https://user-images.githubusercontent.com/1276755/183452461-ef8358d5-8a0f-4c5a-b10e-08e441345957.mp4'></iframe>
+      https://user-images.githubusercontent.com/1276755/183452461-ef8358d5-8a0f-4c5a-b10e-08e441345957.mp4
 
   * 调查：简单在知乎里面找了找：
     mac:https://zhuanlan.zhihu.com/p/248030822
